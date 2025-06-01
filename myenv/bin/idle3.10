@@ -1,5 +1,0 @@
-#!/Users/upendra/Desktop/End_to_End_ML_Project/myenv/bin/python3.10
-
-from idlelib.pyshell import main
-if __name__ == '__main__':
-    main()
